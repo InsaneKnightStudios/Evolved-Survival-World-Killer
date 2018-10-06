@@ -29,10 +29,6 @@ be retained on your device and is not collected by me in any way.
 The app does use third party services that may collect information used
 to identify you.
 
-Link to privacy policy of third party service providers used by the app
-
--   [Google Play Services](https://www.google.com/policies/privacy/)
-
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an
